@@ -21,11 +21,11 @@ Aquí algunos gráficos clave del análisis:
 ![Películas más rentadas](visualizaciones/top_peliculas.png)  
 ![Géneros más rentables](visualizaciones/ingresos_genero.png) 
 
-🚀 Tecnologías Usadas
-Python 🐍
-Pandas 📊
-Seaborn 🎨
-Matplotlib 📈
+## 🚀 Tecnologías Usadas
+- Python 🐍
+- Pandas 📊
+- Seaborn 🎨
+- Matplotlib 📈
 
 ## 🚀 Cómo Usar Este Proyecto  
 1️⃣ Clonar este repositorio:  
