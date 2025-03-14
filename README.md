@@ -49,13 +49,6 @@ conn = sqlite3.connect(db_path)
 ```
 4️⃣ Ejecuta las consultas SQL en Google Colab.  
 
-## 📝 Contribución  
-Si deseas contribuir a este proyecto:  
-1. Realiza un fork del repositorio.  
-2. Crea una rama con tu nueva característica (`git checkout -b feature-nueva`).  
-3. Realiza los cambios y sube la rama (`git push origin feature-nueva`).  
-4. Abre un Pull Request.  
-
 ## 📚 Licencia  
 Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo [LICENSE](LICENSE).  
 
