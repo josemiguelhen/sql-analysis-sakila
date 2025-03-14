@@ -19,9 +19,9 @@ Este proyecto analiza la base de datos Sakila para extraer insights sobre el neg
 Aquí algunos gráficos clave del análisis:
 
 ![Películas más rentadas](Imagenes Gráficos/peliculas_mas_rentadas.png)  
-![Clientes_más_activos](Imágenes Gráficos/clientes_mas_activos.png)
-![Géneros_con_mayores_ingresos](Imágenes Gráficos/generos_con_mas_ingresos.png)
-![Análisis_de_ingresos_mensuales](Imágenes Gráficos/ingresos_mensuales_tienda.png) 
+![Clientes_más_activos](Imagenes Gráficos/clientes_mas_activos.png)
+![Géneros_con_mayores_ingresos](Imagenes Gráficos/generos_con_mas_ingresos.png)
+![Análisis_de_ingresos_mensuales](Imagenes Gráficos/ingresos_mensuales_tienda.png) 
 
 ## 🚀 Tecnologías Usadas
 - Python 🐍
