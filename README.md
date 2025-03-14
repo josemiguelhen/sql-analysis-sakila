@@ -18,7 +18,7 @@ Este proyecto analiza la base de datos Sakila para extraer insights sobre el neg
 ## 📊 Visualizaciones  
 Aquí algunos gráficos clave del análisis:
 
-![Películas más rentadas](/Imagenes Gráficos/peliculas_mas_rentadas.png)  
+![Películas más rentadas](Imagenes%20Gr%C3%A1ficos/clientes_mas_activos.png)  
 ![Clientes_más_activos](Imagenes Gráficos/clientes_mas_activos.png)
 ![Géneros_con_mayores_ingresos](Imagenes Gráficos/generos_con_mas_ingresos.png)
 ![Análisis_de_ingresos_mensuales](Imagenes Gráficos/ingresos_mensuales_tienda.png) 
